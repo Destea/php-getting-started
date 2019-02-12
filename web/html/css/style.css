@@ -1,0 +1,54 @@
+
+body{
+  text-align: center;
+  background-color: #eee;
+}
+
+.navbar-header{
+    margin: 0px 0px;
+}
+.BigWrapper{
+    background-image: url("../img/intro-bg.jpg");
+    height: 580px;
+    width: 100%;
+    padding-top: 50px;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+
+.submit-btn{
+    
+}
+
+footer{
+     background-color: black;
+     width: 100;
+    padding: 0px;
+    margin: 0px;
+}
+
+.form-signin{
+    padding-top: 100px;
+}
+
+.formrow{
+padding: 20px;
+margin: 10px;
+}
+
+.intro-divider{
+    max-width: 330px;
+}
+.copyright{
+    color: #a4a0a4;
+    text-shadow: 50px;
+}
+
