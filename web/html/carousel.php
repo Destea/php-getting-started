@@ -36,7 +36,7 @@ $pictures = array(
     
         <!-- first carousel-->
       
-        <div class="item active">
+        <div class="item active"><br/><br/><br/><br/>
         <img class="carol-img img-responsive img-center" src="html/img/val1.jpg" alt="">
             <div class="carousel-caption">
                 <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
@@ -47,7 +47,7 @@ $pictures = array(
         </div>
         
         <!-- second carousel-->
-        <div class="item">
+        <div class="item"><br/><br/><br/><br/>
         <img class="carol-img img-responsive" src="html/img/val2.jpg" alt="">
             <div class="carousel-caption">
                <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
@@ -58,7 +58,7 @@ $pictures = array(
         </div>
         
         <!-- 3rd carousel-->
-        <div class="item ">
+        <div class="item "><br/><br/><br/><br/>
         <img class="carol-img img-responsive" src="html/img/val3.jpg" alt="">
             <div class="carousel-caption">
                 <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
@@ -69,7 +69,7 @@ $pictures = array(
         </div>
         
         <!-- 4th carousel-->
-        <div class="item ">
+        <div class="item "><br/><br/><br/><br/>
         <img class="carol-img img-responsive" src="html/img/val4.jpg" alt="">
             <div class="carousel-caption">
                 <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
@@ -80,7 +80,7 @@ $pictures = array(
         </div>
         
     <!-- 5th carousel-->
-        <div class="item ">
+        <div class="item "><br/><br/><br/><br/>
         <img class="carol-img img-responsive" src="html/img/val5.jpg" alt="">
             <div class="carousel-caption">
                 <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
@@ -93,7 +93,7 @@ $pictures = array(
    
         
         <!-- 6th carousel-->
-        <div class="item ">
+        <div class="item "><br/><br/><br/><br/>
         <img class="carol-img img-responsive" src="html/img/val6.jpg" alt="">
             <div class="carousel-caption">
                 <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
@@ -104,7 +104,7 @@ $pictures = array(
         </div>
         
         <!-- 7th carousel-->
-        <div class="item ">
+        <div class="item "><br/><br/><br/><br/>
         <img class="carol-img img-responsive" src="html/img/val7.jpg" alt="">
             <div class="carousel-caption">
                 <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
@@ -115,7 +115,7 @@ $pictures = array(
         </div>
         
         <!-- 8th carousel-->
-        <div class="item ">
+        <div class="item "><br/><br/><br/><br/>
         <img class="carol-img img-responsive" src="html/img/val8.jpg" alt="">
             <div class="carousel-caption">
                 <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
@@ -126,7 +126,7 @@ $pictures = array(
         </div>
         
         <!-- 9th carousel-->
-        <div class="item ">
+        <div class="item "><br/><br/><br/><br/>
         <img class="carol-img img-responsive" src="html/img/val9.jpg" alt="">
             <div class="carousel-caption">
                 <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
@@ -136,7 +136,7 @@ $pictures = array(
         </div>
         </div>
         <!-- 10th carousel -->
-        <div class="item ">
+        <div class="item "><br/><br/><br/><br/>
         <img class="carol-img img-responsive" src="html/img/val10.jpg" alt="">
             <div class="carousel-caption">
                 <h4>Happy Valentines Day <?=$_SESSION['name']?></h4>
